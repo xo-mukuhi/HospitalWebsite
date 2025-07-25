@@ -1,0 +1,25 @@
+.carousel-inner img {
+    width: 100%;
+    height: 70vh;
+}
+/*bootstrap-grid-styles*/
+.one{
+    background-color: red;
+    height: 40vh;
+}
+.two{
+    background-color: mediumpurple;
+    height: 40vh;
+}
+.three{
+    background-color: black;
+    height: 40vh;
+}
+.four{
+    background-color: blue;
+    height: 40vh;
+}
+.row img{
+    height: 50vh;
+    width: 100%;
+}
